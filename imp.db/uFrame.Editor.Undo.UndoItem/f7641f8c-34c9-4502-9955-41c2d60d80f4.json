@@ -1,0 +1,8 @@
+{
+	"Identifier":"f7641f8c-34c9-4502-9955-41c2d60d80f4"	, 
+	"Time":"1/27/2017 2:12:22 PM"	, 
+	"Group":141222	, 
+	"DataRecordId":"c624a94f-40b9-4200-aa21-393b37eb3ea1"	, 
+	"Type":2	, 
+	"RecordType":"uFrame.ECS.Editor.EcsWorkspace, Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"	, 
+	"Data":"{\r\n\t\"Identifier\":\"c624a94f-40b9-4200-aa21-393b37eb3ea1\"\t, \r\n\t\"Name\":\"Projekt\"\t, \r\n\t\"Expanded\":false}\r\n"}
