@@ -17,6 +17,9 @@
             GetComponent<VRTK_ControllerEvents>().AliasMenuOff += new ControllerInteractionEventHandler(DoMenuOff);
             menuInit = false;
             menuActive = false;
+            //
+            menuObject.SetActive(false);
+            //
         }
 
         private void InitMenu()
