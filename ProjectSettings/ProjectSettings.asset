@@ -440,7 +440,7 @@ PlayerSettings:
   webGLUseWasm: 0
   webGLCompressionFormat: 1
   scriptingDefineSymbols:
-    1: VRTK_SDK_SIM
+    1: VRTK_SDK_STEAMVR
   platformArchitecture: {}
   scriptingBackend:
     Standalone: 0

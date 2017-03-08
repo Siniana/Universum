@@ -65,8 +65,8 @@ namespace VRTK
             var canvas = GetComponent<Canvas>();
 
 
-            //if (!canvas || canvas.renderMode != RenderMode.WorldSpace)
-            if (!canvas || canvas.renderMode != RenderMode.ScreenSpaceCamera)
+            if (!canvas || canvas.renderMode != RenderMode.WorldSpace)
+            //if (!canvas || canvas.renderMode != RenderMode.ScreenSpaceOverlay)
             {
                 Debug.LogError("A VRTK_UICanvas requires to be placed on a Canvas that is set to `Render Mode = World Space`.");
                 return;
